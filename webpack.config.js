@@ -16,7 +16,7 @@ module.exports = {
 
     // npm install --save-dev babel-plugin-transform-es2015-destructuring
     // npm install --save-dev babel-plugin-transform-object-rest-spread
-    loaders: [{
+    rules: [{
       //test: /\.jsx?$/, 
       rules:[
         {
