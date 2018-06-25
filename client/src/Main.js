@@ -12,7 +12,6 @@ import {
   withRouter
 } from 'react-router-dom'
 
-import Base from './pages/Base.jsx';
 import HomePage from './pages/HomePage.jsx';
 import LoginPage from './containers/LoginPage.jsx';
 import LogoutFunction from './containers/LogoutFunction.jsx';
